@@ -6,4 +6,4 @@
 |  电话  | 18800183317 |
 |  邮箱  | i@zheweng.email |
 | Github | https://github.com/wengzhe |
-|  微信  | <img src=微信.jpg width=40% /> |
+|  微信  | <img src="微信.jpg" width=40% /> |
