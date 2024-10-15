@@ -1,12 +1,8 @@
 # 翁喆
 
-| 姓名           | 邮箱           |
+| 翁喆           | 18800183317    |
 | :------------: | :------------: |
-| 翁喆           | i@zheweng.email |
+| 邮箱           | [Github](https://github.com/wengzhe) |
 |                |                |
-| 电话           | Github |
-| 18800183317    | [wengzhe](https://github.com/wengzhe) |
-|                |                |
-|                | 微信 |
 |                | ![微信](微信.jpg) |
 | ![](empty.jpg) | ![](empty.jpg) |
